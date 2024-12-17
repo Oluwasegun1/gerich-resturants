@@ -18,8 +18,10 @@ const AboutUs = () => (
 
         <img src={images.spoon} alt="about_spoon" className="spoon__img" />
         <p className="p__opensans">
-          Do ullamco tempor eu esse culpa sit culpa. Aliquip et anim officia do
-          nisi sunt dolor deserunt in.
+          At Gericht Resturant, we bring people together with exceptional
+          flavors, warm hospitality, and a vibrant atmosphere. Every dish tells
+          a story, crafted with passion and the finest ingredients. Join us for
+          a dining experience to remember!
         </p>
         <button type="button" className="custom__button">
           View More
@@ -35,8 +37,9 @@ const AboutUs = () => (
 
         <img src={images.spoon} alt="about_spoon" className="spoon__img" />
         <p className="p__opensans">
-          Do ullamco tempor eu esse culpa sit culpa. Aliquip et anim officia do
-          nisi sunt dolor deserunt in.
+          Our journey began with a passion for great food and warm hospitality.
+          Over the years, we've become a destination for unforgettable flavors
+          and exceptional experiences.
         </p>
         <button type="button" className="custom__button">
           View More

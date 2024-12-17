@@ -9,9 +9,12 @@ const Header = () => (
       <SubHeading title="chase the new flaour" />
       <h1 className="app__header-h1">The Key to Fine Dining</h1>
       <p className="p__opensans" style={{ margin: "2rem 0" }}>
-        Sint qui elit velit non veniam cupidatat velit. Laborum nostrud id
-        aliqua irure aute et deserunt occaecat ad. Aliqua mollit ipsum sunt
-        occaecat nisi reprehenderit magna reprehenderit non enim incididunt id.
+        Experience the perfect blend of flavor and ambiance at our restaurant.
+        Indulge in a menu crafted with fresh, high-quality ingredients and
+        inspired by diverse culinary traditions. Whether you're here for a
+        casual meal or a special occasion, we’re dedicated to serving you with
+        warmth, creativity, and excellence. Discover your next favorite dish
+        with us!
       </p>
       <button type="button" className="custom__button">
         Explore Menu
